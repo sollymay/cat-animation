@@ -1,15 +1,14 @@
 # animation
 
-A new Flutter project.
+A cat in a box animation project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a bit of playing with the animation properties in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+I created a box and a cat animation that when you tap on the screen, the cat goes outside the box.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+You can clone this repo and then use ```flutter run``` in order to run the app in your device or favorite emulator.
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
