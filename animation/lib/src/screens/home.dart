@@ -17,7 +17,7 @@ class HomeState extends State<Home> with TickerProviderStateMixin {
   initState(){
     super.initState();
       boxController = AnimationController(
-        duration: Duration(milliseconds: 300),
+        duration: Duration(milliseconds: 400),
         vsync: this,
       );
       boxAnimation = Tween(begin: pi * 0.6, end: pi * 0.65)
